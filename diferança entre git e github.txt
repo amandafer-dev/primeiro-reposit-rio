@@ -1,0 +1,27 @@
+
+
+Git e Github é mesma coisa?
+
+Em primeiro momento também achei que fosse, até entender que esses dois 
+se parecem somente no nome, mas possuem funçoes distintas.
+
+Git- Repositório local, (VCS) Sistema de controle de versão
+
+Quais suas vantagens?
+- Controle de histórico
+- Trabalho em equipe
+- Ramificação do projeto
+- Segurança e Organização
+
+Github- Repositório  remoto onde se cria repositórios e também se participa do repositório de outros programadores.
+
+Quais as vantagens do Github?
+
+- Repositórios ilimitados
+- Hospedagem de código-fonte
+- Características de rede social
+- Github Pages integrado 
+- Forks
+
+Acesse o link e saiba mais sobre Git/Github 
+(https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
